@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/creditsafe/Testing/_apis/build/status/coding-umr.js-e2e-express-server?branchName=main)](https://dev.azure.com/creditsafe/Testing/_build/latest?definitionId=3918&branchName=main)
 ---
 page_type: sample
 languages:
